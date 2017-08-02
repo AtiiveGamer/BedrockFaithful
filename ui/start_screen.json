@@ -1,0 +1,12 @@
+{
+  "namespace": "start",
+  
+  "feedback_icon": {
+    "type": "image",
+    "texture": "textures/gui/newgui/Feedback",
+    "layer": 3,
+    "uv": [ 0, 0 ],
+    "uv_size": [ 32, 32 ],
+    "size": [ 16, 16 ]
+  }
+}

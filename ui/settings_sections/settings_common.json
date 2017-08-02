@@ -1,0 +1,12 @@
+{
+  "namespace": "settings_common",
+  
+  "option_toggle_state_template": {
+    "type": "image",
+    "size": [ 30, 16 ],
+    "uv_size": [ 60, 32 ],
+    "uv": [ 0, 0 ],
+    "anchor_from": "top_left",
+    "anchor_to": "top_left"
+  }
+}

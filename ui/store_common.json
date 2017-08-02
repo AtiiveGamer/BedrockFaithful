@@ -1,0 +1,11 @@
+{
+  "namespace": "common_store",
+  
+  "coin_icon": {
+    "type": "image",
+    "texture": "textures/gui/newgui/MCoin",
+    "uv": [ 0, 0 ],
+    "uv_size": [ 23, 23 ],
+    "size": [ 11, 11 ]
+  }
+}

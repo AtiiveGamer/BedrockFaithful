@@ -1,0 +1,28 @@
+{
+  "namespace": "play",
+  
+  "worlds_icon": {
+    "type": "image",
+    "texture": "textures/gui/newgui/worldsIcon",
+    "uv": [ 0, 0 ],
+    "uv_size": [ 32, 34 ],
+    "size": [ 16, 17 ]
+  },
+  
+  "friends_icon": {
+    "type": "image",
+    "texture": "textures/gui/newgui/FriendsIcon",
+    "uv": [ 0, 0 ],
+    "uv_size": [ 30, 30 ],
+    "size": [ 15, 15 ]
+  },
+  
+  "feedback_icon": {
+    "type": "image",
+    "texture": "textures/gui/newgui/Feedback",
+    "layer": 3,
+    "uv": [ 0, 0 ],
+    "uv_size": [ 32, 32 ],
+    "size": [ 16, 16 ]
+  }
+}
