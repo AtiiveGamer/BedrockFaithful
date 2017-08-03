@@ -1,6 +1,7 @@
 {
   "namespace": "start",
   
+  /* Feedback Icon */
   "feedback_icon": {
     "type": "image",
     "texture": "textures/gui/newgui/Feedback",

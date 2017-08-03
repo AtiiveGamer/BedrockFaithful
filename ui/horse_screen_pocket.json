@@ -1,0 +1,30 @@
+{
+  "namespace": "horse_pocket",
+  
+  /* Horse Saddle Slot */
+  "saddle_image": {
+    "type": "image",
+    "texture": "textures/gui/newgui/empty_horse_slot_saddle",
+    "uv": [ 0, 0 ],
+    "uv_size": [ 32, 32 ],
+    "alpha": 0.7
+  },
+
+  /* Horse Armor Slot */
+  "armor_image": {
+    "type": "image",
+    "texture": "textures/gui/newgui/empty_horse_slot_armor",
+    "uv": [ 0, 0 ],
+    "uv_size": [ 32, 32 ],
+    "alpha": 0.7
+  },
+
+  /* Llama Carpet Slot */
+  "carpet_image": {
+    "type": "image",
+    "texture": "textures/gui/newgui/empty_llama_slot_carpet",
+    "uv": [ 0, 0 ],
+    "uv_size": [ 32, 32 ],
+    "alpha": 0.7
+  }
+}

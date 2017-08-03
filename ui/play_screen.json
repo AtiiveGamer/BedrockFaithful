@@ -1,6 +1,7 @@
 {
   "namespace": "play",
   
+  /* World Icon */
   "worlds_icon": {
     "type": "image",
     "texture": "textures/gui/newgui/worldsIcon",
@@ -9,6 +10,7 @@
     "size": [ 16, 17 ]
   },
   
+  /* Friends Icon */
   "friends_icon": {
     "type": "image",
     "texture": "textures/gui/newgui/FriendsIcon",
@@ -17,6 +19,7 @@
     "size": [ 15, 15 ]
   },
   
+  /* Feedback Icon */
   "feedback_icon": {
     "type": "image",
     "texture": "textures/gui/newgui/Feedback",

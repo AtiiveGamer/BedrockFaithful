@@ -1,6 +1,7 @@
 {
   "namespace": "common_store",
   
+  /* Coin Icon */
   "coin_icon": {
     "type": "image",
     "texture": "textures/gui/newgui/MCoin",
