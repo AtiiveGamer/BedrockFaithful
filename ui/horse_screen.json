@@ -1,7 +1,7 @@
 {
   "namespace": "horse",
   
-  /* Horse and Llama Slots */
+  // Horse and Llama Slots
   "overlay_image": {
     "type": "image",
     "uv": [ 0, 0 ],

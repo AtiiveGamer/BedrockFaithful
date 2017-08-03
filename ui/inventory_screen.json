@@ -1,7 +1,7 @@
 {
   "namespace": "crafting",
   
-  /* Armor Slots */
+  // Armor Slots
   "armor_overlay": {
     "type": "image",
     "layer": 3,
@@ -18,7 +18,7 @@
     ]
   },
   
-  /* Shield Slot */
+  // Shield Slot
   "offhand_overlay": {
     "type": "image",
     "layer": 3,
